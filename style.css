@@ -2,6 +2,14 @@ body {
   font-family: "Lora", serif;
 }
 
+.home, .home:visited, .home:link, .home:active {
+  color: #000;
+  text-decoration: none;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
 #main {
   margin-top: 50px;
   border: 1px solid #acacac;
